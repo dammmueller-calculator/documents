@@ -1,6 +1,6 @@
 # documents
 
-- [documentation](documents/documentaion)
+- [documentation](documents/documentation)
 - [klassendiagramm](documents/klassendiagramm)
 - [pflichtenheft](documents/pflichtenheft)
 - [praesentation](documents/praesentation)
