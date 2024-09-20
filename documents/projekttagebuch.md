@@ -18,4 +18,10 @@
 - Alle anwesend
 - Aufteilung der Aufgaben
 - Erste Zeitschätzung
-- Erstellung der Issues GitHub  
+- Erstellung der Issues GitHub
+
+## 20.09.2024
+
+- Florian, Ricardo und Celine anwesend
+- Tiefergehende Zeitschätzung
+- Erweiterung und Fertigstellung Projektstrukturplan 
