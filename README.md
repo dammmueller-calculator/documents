@@ -4,7 +4,7 @@
 - [klassendiagramm](documents/klassendiagramm)
 - [pflichtenheft](documents/pflichtenheft)
 - [praesentation](documents/praesentation)
-- [projektantraege](documents/projectantraege)
+- [projektantraege](documents/projektantraege)
 - [projektplan](documents/projektplan)
 - [projekttagebuch](documents/projekttagebuch.md)
 - [projektqulitaetsplan](documents/projektqulitaetsplan)
