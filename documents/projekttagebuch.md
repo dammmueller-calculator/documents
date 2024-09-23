@@ -2,7 +2,7 @@
 
 > Stefan Klaeck – i22klaeckst@bszetdd.lernsax.com <br>
 > Celine Träber – i22traeberce@bszetdd.lernsax.com <br>
-> Florian Mross – i22mrossfl@bszetdd.lernsax.com <br>
+> Florian Mros – i22mrosfl@bszetdd.lernsax.com <br>
 > Ricardo Thiele – i22thieleri@bszetdd.lernsax.com
 
 ## 16.09.2024
@@ -25,3 +25,14 @@
 - Florian, Ricardo und Celine anwesend
 - Tiefergehende Zeitschätzung
 - Erweiterung und Fertigstellung Projektstrukturplan 
+
+## 23.09.2024
+
+- Alle anwesend
+- Abgabe Projektstrukturplan
+- Erstellung Risikoanalyse
+- Verteilung Zukünftige Aufgaben:
+    - Projektplanung (Stefan)
+    - Prototyp (Florian)
+    - Analytisches Klassendiagramm (Celine)
+    - Designklassendiagramm (Ricardo)
