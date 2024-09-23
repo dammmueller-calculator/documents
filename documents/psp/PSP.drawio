@@ -1,0 +1,107 @@
+<mxfile host="Electron" modified="2024-09-23T05:24:06.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="C_5oGqpDA5KOzvGWeJyn" version="24.5.3" type="device">
+  <diagram name="Seite-1" id="7rGcIv998vaVK5GlCTNv">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="100" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="300" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="500" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="700" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="1301" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="1500" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="1700" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8SCvH9RGZOQYScEK9rN5-1" target="8SCvH9RGZOQYScEK9rN5-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="100" />
+              <mxPoint x="1100" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-1" value="Implementierung&amp;nbsp;&lt;div&gt;Taschenrechner&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="840" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-2" value="&lt;b&gt;Startmodul&lt;/b&gt;&lt;div&gt;Entwickler: Florian&lt;/div&gt;&lt;div&gt;Zeit: 3 h&lt;/div&gt;&lt;div&gt;Kosten: 180 €&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-3" value="&lt;b&gt;Prozentrechnung&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Celine&lt;/div&gt;&lt;div&gt;Zeit: 3 h&lt;/div&gt;&lt;div&gt;Kosten: 180 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-4" value="&lt;b&gt;Kreditberechnung&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Ricardo&lt;/div&gt;&lt;div&gt;Zeit: 2 h&lt;/div&gt;&lt;div&gt;Kosten: 120 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-5" value="&lt;b&gt;Geometrie&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Florian&lt;/div&gt;&lt;div&gt;Zeit: 1 h&lt;/div&gt;&lt;div&gt;Kosten: 60 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-6" value="&lt;b&gt;Mathematische Funktionen&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Celine&lt;/div&gt;&lt;div&gt;Zeit: 5 h&lt;/div&gt;&lt;div&gt;Kosten: 300 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-7" value="&lt;b&gt;Schule&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Florian&lt;/div&gt;&lt;div&gt;Zeit: 1 h&lt;/div&gt;&lt;div&gt;Kosten: 60 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-8" value="&lt;b&gt;Informationstechnik&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Ricardo&lt;/div&gt;&lt;div&gt;Zeit: 3 h&lt;/div&gt;&lt;div&gt;Kosten: 180 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-9" value="&lt;b&gt;Grundrechner&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Stefan&lt;/div&gt;&lt;div&gt;Zeit: 4 h&lt;/div&gt;&lt;div&gt;Kosten: 240 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8SCvH9RGZOQYScEK9rN5-10" value="&lt;b&gt;Eingabemodul&lt;/b&gt;&lt;div&gt;&lt;div&gt;Entwickler: Stefan&lt;/div&gt;&lt;div&gt;Zeit: 5 h&lt;/div&gt;&lt;div&gt;Kosten: 300 €&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
