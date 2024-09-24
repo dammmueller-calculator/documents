@@ -9,34 +9,42 @@
 
 ### 16.09.2024
 
-- Alle anwesend
-- Erste Besprechung über Umsetzung und Planung
-- Rücksprache mit Kunden zur Speicherung der Daten und Brereitstellung der Branchenmodule
-- Erstellung Projektantrag und Projektstrukturplan
-- Einrichtung GitHub-Repository
+- (alle): Alle anwesend
+- (alle): Erste Besprechung über Umsetzung und Planung
+- (celine,florian): Rücksprache mit Kunden zur Speicherung der Daten und Brereitstellung der Branchenmodule
+- (celine, stefan): Erstellung Projektantrag und Projektstrukturplan
+- (florian): Einrichtung GitHub-Repository
 
 ### 17.09.2024
 
-- Alle anwesend
-- Aufteilung der Aufgaben
-- Erste Zeitschätzung
-- Erstellung der Issues GitHub
+- (alle): Alle anwesend
+- (alle): Aufteilung der Aufgaben
+- (celine, florian, stefan): Erste Zeitschätzung
+- (florian): Erstellung der Issues GitHub
 
 ### 20.09.2024
 
-- Florian, Ricardo und Celine anwesend
-- Tiefergehende Zeitschätzung
-- Erweiterung und Fertigstellung Projektstrukturplan
+- (alle): Florian, Ricardo und Celine anwesend
+- (celine, florian, ricardo): Tiefergehende Zeitschätzung
+- (celine, florian): Erweiterung und Fertigstellung Projektstrukturplan
 
 ## PW 2
 
 ### 23.09.2024
 
-- Alle anwesend
-- Abgabe Projektstrukturplan
-- Erstellung Risikoanalyse
-- Verteilung Zukünftige Aufgaben:
+- (alle): Alle anwesend
+- (alle): Abgabe Projektstrukturplan
+- (alle): Erstellung Risikoanalyse
+- (alle): Verteilung Zukünftige Aufgaben:
     - Projektplanung (Stefan)
     - Prototyp (Florian)
     - Analytisches Klassendiagramm (Celine)
     - Designklassendiagramm (Ricardo)
+
+### 24.09.2024
+
+- (alle): Alle anwesend
+- (stefan): Gantt
+- (celine): analytisches Klassendiagramm
+- (florian): - Git
+             - Prototyp
