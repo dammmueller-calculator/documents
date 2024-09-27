@@ -5,37 +5,37 @@
 > Florian Mros – i22mrosfl@bszetdd.lernsax.com <br>
 > Ricardo Thiele – i22thieleri@bszetdd.lernsax.com
 
-## PW 1
+## Projektwoche 1
 
 ### 16.09.2024
 
-- (alle): Alle anwesend
-- (alle): Erste Besprechung über Umsetzung und Planung
-- (celine,florian): Rücksprache mit Kunden zur Speicherung der Daten und Brereitstellung der Branchenmodule
-- (celine, stefan): Erstellung Projektantrag und Projektstrukturplan
-- (florian): Einrichtung GitHub-Repository
+- Alle anwesend
+- (*): Erste Besprechung über Umsetzung und Planung
+- (Celine, Florian): Rücksprache mit Kunden zur Speicherung der Daten und Brereitstellung der Branchenmodule
+- (Celine, Stefan): Erstellung Projektantrag und Projektstrukturplan
+- (Florian): Einrichtung GitHub-Repository
 
 ### 17.09.2024
 
-- (alle): Alle anwesend
-- (alle): Aufteilung der Aufgaben
-- (celine, florian, stefan): Erste Zeitschätzung
-- (florian): Erstellung der Issues GitHub
+- Alle anwesend
+- (*): Aufteilung der Aufgaben
+- (Celine, Florian, Stefan): Erste Zeitschätzung
+- (Florian): Erstellung der Issues GitHub
 
 ### 20.09.2024
 
-- (alle): Florian, Ricardo und Celine anwesend
-- (celine, florian, ricardo): Tiefergehende Zeitschätzung
-- (celine, florian): Erweiterung und Fertigstellung Projektstrukturplan
+- Florian, Ricardo und Celine anwesend
+- (Celine, Florian, Ricardo): Tiefergehende Zeitschätzung
+- (Celine, Florian): Erweiterung und Fertigstellung Projektstrukturplan
 
-## PW 2
+## Projektwoche 2
 
 ### 23.09.2024
 
-- (alle): Alle anwesend
-- (alle): Abgabe Projektstrukturplan
-- (alle): Erstellung Risikoanalyse
-- (alle): Verteilung Zukünftige Aufgaben:
+- Alle anwesend
+- (*): Abgabe Projektstrukturplan
+- (*): Erstellung Risikoanalyse
+- (*): Verteilung Zukünftige Aufgaben:
     - Projektplanung (Stefan)
     - Prototyp (Florian)
     - Analytisches Klassendiagramm (Celine)
@@ -43,8 +43,16 @@
 
 ### 24.09.2024
 
-- (alle): Alle anwesend
-- (stefan): Gantt
-- (celine): analytisches Klassendiagramm
-- (florian): - Git
+- Alle anwesend
+- (Stefan): Gantt
+- (Celine): analytisches Klassendiagramm
+- (Florian): - Git
              - Prototyp
+
+### 27.09.2024
+
+- Alle Anwesend
+- (*): Beendung Risikoanalyse
+- (Stefan): Projektplanung
+
+## Projektwoche 3
