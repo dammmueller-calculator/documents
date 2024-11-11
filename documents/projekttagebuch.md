@@ -56,3 +56,11 @@
 - (Stefan): Projektplanung
 
 ## Projektwoche 3
+
+### 11.11.2024
+
+- Alle Anwesend
+- (Florian): Prototypen
+- (Celine): analytisches Klassendiagramm
+- (Ricardo): Designtechnisches Klassendiagramm
+- (Stefan): Projektplan
