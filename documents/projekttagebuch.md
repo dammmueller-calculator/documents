@@ -10,7 +10,7 @@
 ### 16.09.2024
 
 - Alle anwesend
-- (*): Erste Besprechung über Umsetzung und Planung
+- (\*): Erste Besprechung über Umsetzung und Planung
 - (Celine, Florian): Rücksprache mit Kunden zur Speicherung der Daten und Brereitstellung der Branchenmodule
 - (Celine, Stefan): Erstellung Projektantrag und Projektstrukturplan
 - (Florian): Einrichtung GitHub-Repository
@@ -18,7 +18,7 @@
 ### 17.09.2024
 
 - Alle anwesend
-- (*): Aufteilung der Aufgaben
+- (\*): Aufteilung der Aufgaben
 - (Celine, Florian, Stefan): Erste Zeitschätzung
 - (Florian): Erstellung der Issues GitHub
 
@@ -33,26 +33,25 @@
 ### 23.09.2024
 
 - Alle anwesend
-- (*): Abgabe Projektstrukturplan
-- (*): Erstellung Risikoanalyse
-- (*): Verteilung Zukünftige Aufgaben:
-    - Projektplanung (Stefan)
-    - Prototyp (Florian)
-    - Analytisches Klassendiagramm (Celine)
-    - Designklassendiagramm (Ricardo)
+- (\*): Abgabe Projektstrukturplan
+- (\*): Erstellung Risikoanalyse
+- (\*): Verteilung Zukünftige Aufgaben:
+  - Projektplanung (Stefan)
+  - Prototyp (Florian)
+  - Analytisches Klassendiagramm (Celine)
+  - Designklassendiagramm (Ricardo)
 
 ### 24.09.2024
 
 - Alle anwesend
 - (Stefan): Gantt
 - (Celine): analytisches Klassendiagramm
-- (Florian): - Git
-             - Prototyp
+- (Florian): - Git - Prototyp
 
 ### 27.09.2024
 
 - Alle Anwesend
-- (*): Beendung Risikoanalyse
+- (\*): Beendung Risikoanalyse
 - (Stefan): Projektplanung
 
 ## Projektwoche 3
