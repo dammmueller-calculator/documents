@@ -63,3 +63,22 @@
 - (Celine): analytisches Klassendiagramm
 - (Ricardo): Designtechnisches Klassendiagramm
 - (Stefan): Projektplan
+
+### 13.11.2024
+
+- Alle Anwesend
+- (\*): Meilensteingespraech
+
+## Projektwoche 4
+
+### 18.11.2024
+
+- Alle Anwesend
+- (Celine): Testliste
+- (Stefan, Florian): Pflichtenheft
+- (Ricardo): Produktqualitaetsplan, Designtechnisches Klassendiagramm
+
+### 22.11.2024
+
+- Alle Anwesend
+- (\*): Projektabschluss Woche 4
