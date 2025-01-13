@@ -83,7 +83,7 @@
 - Alle Anwesend
 - (\*): Projektabschluss Woche 4
 
-## Projektwoche 4
+## Projektwoche 5
 
 ### 06.01.2025
 
