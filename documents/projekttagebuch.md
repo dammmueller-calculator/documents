@@ -82,3 +82,21 @@
 
 - Alle Anwesend
 - (\*): Projektabschluss Woche 4
+
+## Projektwoche 4
+
+### 06.01.2025
+
+- Alle Anwesend
+- (Celine): View für Prozentrechnungsmodul, Validierung
+- (Stefan): Grundrechner
+- (Florian): Unterstützung beim Grundrechner, Code-Review
+- (Ricardo): ?
+
+### 07.01.2025
+
+- Alle Anwesend
+- (Celine): Prozentrechnungsmodul, Funktionen
+- (Stefan): Grundrechner
+- (Florian): Unterstützung beim Grundrechner, Code-Review
+- (Ricardo): ? 
