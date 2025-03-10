@@ -91,7 +91,7 @@
 - (Celine): View für Prozentrechnungsmodul, Validierung
 - (Stefan): Grundrechner
 - (Florian): Unterstützung beim Grundrechner, Code-Review
-- (Ricardo): ?
+- (Ricardo): Kreditrechnungsmodul UI
 
 ### 07.01.2025
 
@@ -99,4 +99,50 @@
 - (Celine): Prozentrechnungsmodul, Funktionen
 - (Stefan): Grundrechner
 - (Florian): Unterstützung beim Grundrechner, Code-Review
-- (Ricardo): ? 
+- (Ricardo): Kreditrechnungsmodul View
+
+## Projektwoche 6
+
+### 13.01.2025
+
+- Alle ausser Stefan
+- (Celine): Abschluss Prozentrechnungsmodul
+- (Stefan): Krank
+- (Florian): Code-Review, Input
+- (Ricardo): Kreditrechnungsmodul View
+
+### 14.01.2025
+
+- Alle Anwesend
+- (Celine): Beginn Mathematikmodul
+- (Stefan): Eingabemodul
+- (Florian): Unterstützung beim Grundrechner, Code-Review
+- (Ricardo): Kreditrechnungsmodul View u. UI ueberarbeitet
+
+## Projektwoche 7
+
+### 03.03.2025
+
+- Alle Anwesend
+- (Celine): Mathematikmodul
+- (Stefan): Eingabemodul, Schulrechner
+- (Florian): Eingabe Modul, Code-Review, Input Module Rechnen
+- (Ricardo): Kreditrechnungsmodul Logik
+
+### 04.03.2025
+
+- Alle Anwesend
+- (Celine): Abschluss Mathematikmodul
+- (Stefan): Schulrechner, fix Prozent (Runden)
+- (Florian): Settings Export, Settings overhaul, History Export, Input Module Hide btn's, Nebenrechner
+- (Ricardo): Kreditrechnungsmodul Logik
+
+## Projektwoche 8
+
+### 10.03.2025
+
+- Alle Anwesend
+- (Celine): Fix Mathematikmodul, Prozentmodul, Beginn Geometriemodul
+- (Stefan): Informatik Rechner
+- (Florian): FIX GIT.....
+- (Ricardo): Abschluss Kreditrechnungsmodul
